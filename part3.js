@@ -1,3 +1,5 @@
+// How about 1 billion?
+
 var reward = 0.01;
 var count = 1;
 while (reward > 0) {

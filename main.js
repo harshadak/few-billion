@@ -1,3 +1,5 @@
+// How much was the reward after 30 days?
+
 function makeMoney() {
     var money = 0.01;
 

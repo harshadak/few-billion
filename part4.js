@@ -1,3 +1,5 @@
+// In JavaScript, there is a value Infinity, how many days until the servant has infinite money?
+
 var reward = 0.01;
 var count = 1;
 while (reward > 0) {

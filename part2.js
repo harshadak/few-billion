@@ -1,3 +1,5 @@
+// How many days would it take the servant to make $10,000?
+
 var reward = 0.01;
 var count = 1;
 while (reward > 0) {
